@@ -3,4 +3,4 @@ Developed a web service during a group project for the Databases and Web Service
 
 In this project, I was mainly responsible for handling the connection with the database, using mainly PHP and MySQL, and some HTML/JS.
 
-The website can also be found at: 'http://clabsql.clamv.jacobs-university.de/~mborsos/' Note: this an only can be accessed through VPN or at Jacobs University Bremen.
+The website can also be found at: http://clabsql.clamv.jacobs-university.de/~mborsos/ Note: this an only can be accessed through VPN or at Jacobs University Bremen.
