@@ -1,0 +1,6 @@
+This is our encrypted email for the Security I part of Assignment 7.
+We are Group 11!
+
+For Security II:
+username: admin
+password: password11 
